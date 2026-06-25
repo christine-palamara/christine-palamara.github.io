@@ -17,3 +17,9 @@ table.GeneratedTable td, table.GeneratedTable th {
   border-style: solid;
   padding: 3px;
 }
+
+p {
+  font-family: 'Karla';
+  font-size: 10 px;
+  font-weight: 'Light';
+}
