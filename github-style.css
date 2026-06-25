@@ -1,1 +1,19 @@
+table.GeneratedTable {
+  width: 100%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 1px;
+  border-color: #171716;
+  border-style: solid;
+  color: #242424;
+  font-family: 'Karla';
+  font-size: 16 px;
+  font-weight: 'Light';
+}
 
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 1px;
+  border-color: #171716;
+  border-style: solid;
+  padding: 3px;
+}
