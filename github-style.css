@@ -16,10 +16,13 @@ table.GeneratedTable td, table.GeneratedTable th {
   border-color: #171716;
   border-style: solid;
   padding: 3px;
+  font-family: 'Karla';
+  font-size: 10 px;
+  font-weight: 'Light';  
 }
 
 p.Karla10 {
   font-family: 'Karla';
-  font-size: 10 px;
+  font-size: 20 px;
   font-weight: 'Light';
 }
